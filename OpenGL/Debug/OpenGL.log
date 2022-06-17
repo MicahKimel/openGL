@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\kimel\Desktop\OpenGL - Copy\OpenGL\OpenGL\Camera.h(118,11): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+C:\Users\kimel\Desktop\OpenGL - Copy\OpenGL\OpenGL\Camera.h(119,11): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+C:\Users\kimel\Desktop\OpenGL - Copy\OpenGL\OpenGL\main.cpp(174,9): warning C4101: 'mouseOffsetX': unreferenced local variable
+C:\Users\kimel\Desktop\OpenGL - Copy\OpenGL\OpenGL\main.cpp(175,9): warning C4101: 'mouseOffsetY': unreferenced local variable
+  OpenGL.vcxproj -> C:\Users\kimel\Desktop\OpenGL - Copy\OpenGL\Debug\OpenGL.exe
